@@ -41,7 +41,7 @@ Implement and understand Simple and Multiple Linear Regression using a housing p
 - Residual distribution
 - Coefficients of all features from the multiple regression model
 
-## 📈 Results
+##  Results
 
 | Metric        | Value          |
 |---------------|----------------|
